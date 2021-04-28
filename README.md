@@ -1,16 +1,13 @@
-### Hi there 👋
+## Welcome
 
-<!--
-**strekozov/strekozov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <h1>Hi 🤚, I'm Strekozov</h1>
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>This is a job profile</p>
+
+---
+
+> You can send me a message in [Telegram](https://t.me/Strekozov)
