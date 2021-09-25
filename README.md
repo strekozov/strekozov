@@ -12,8 +12,4 @@
 
 ---
 
-<p>This is a job profile</p>
-
----
-
-> You can send me a message in [Telegram](https://t.me/Strekozov)
+> Whether you have got a suggestion, you can send me an [email](mailto:strekozov@pm.me)
