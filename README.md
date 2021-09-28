@@ -7,10 +7,6 @@
   <img src="https://img.shields.io/github/last-commit/strekozov/dotfiles?color=yellow&label=shutnnik&logo=git&logoColor=white&style=for-the-badge">
 </div>
 
-## Contact me
-
-[<img align="left" alt="adi1090x | Github" width="22px" src="https://image.flaticon.com/icons/svg/733/733553.svg" />][github]
-[<img align="left" alt="adi1090x | Email" width="22px" src="https://image.flaticon.com/icons/svg/732/732200.svg" />][gmail]
 
 
 ## Projects
