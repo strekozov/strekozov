@@ -11,7 +11,7 @@
 
 ## Projects
 
-- 🧬Cylance Solar
+- 🧬Nevrologisk
 - 🧠Neorealisk
   - 🧬🧠Nevrologisk
     - 💻Prime Gander
